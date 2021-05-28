@@ -1,0 +1,47 @@
+PO# 30-TC613-S
+****************************************************                                                 PURCHASE ORDER
+* INGRAM     3351 MICHELSON DR STE 100             *
+* MICRO      IRVINE, CA 92612-0697                 *                                        PLEASE ACKNOWLEDGE THIS ORDER
+*            714-566-1000                          *                                        PROMPTLY AND ADVISE SHIPPING DATE.
+****************************************************                                        BILL OF LADING MUST ACCOMPANY INVOICE.
+IMPORTANT
+VENDOR #  VENDOR                                     S                                      THE PURCHASE ORDER NUMBER MUST
+QH20-1                                              H                                      APPEAR ON ALL INVOICES, SHIPPING
+LOGITECH INC.                                 I  INGRAM MICRO TLP (MEMPHIS)          PAPERS AND PACKAGES.  PACKING SLIP
+6505 KAISER DR                                P  3820 MICRO DRIVE                    MUST ACCOMPANY SHIPMENT.  INVOICE
+MILLINGTON  TN 38053                    EACH PURCHASE ORDER SEPARATELY.
+FREMONT, CA 94555                             T
+O
+====================================================================================================================================
+P.O. NUMBER   |VENDOR #  |VEND. TELEPHONE NO.   |P.O. DATE  |SHIP DATE  |DELIVERY DATE  |PAYMENT TERMS          |
+30-TC613-S    |QH20      |510-795-8500          |12/03/20   |12/03/20   |12/10/20       |      NET  45          |
+====================================================================================================================================
+SHIPPING INSTRUCTIONS                     |SHIP VIA                                  |FREIGHT TERMS
+SHIP POINT                                |SEE ROUTING                               |VENDOR
+====================================================================================================================================
+LINE  |S|   QUANTITY   |UNIT | D.P. NO.  |  CPU/MFG I.D. NO.  |           DESCRIPTION           |  MEDIA  |   COST    |   EXTENDED
+====================================================================================================================================
+001   | |      8       |  EA |2GH260     |VC-CP               |LOGITECH SCREEN SHARE FOR PC     |  CABL   |   277.49  |    2219.92
+| |              |     |           |939-001553          |EASY WIRED CONTENT SHARING TO P  |         |           |
+| |              |     |           |                    |                                 |         |           |
+002   | |      4       |  EA |5GK498     |AC-CP               |RALLY SPEAKER FOR SYSTEM         |  CPNT   |   231.24  |     924.96
+| |              |     |           |960-001230          |ADD ON SPEAKER FOR RALLY         |         |           |
+| |              |     |           |                    |                                 |         |           |
+003   | |      4       |  EA |6RT148     |USB                 |45M STRONG USB 3.1.CABLE         |  CABL   |   999.00  |    3996.00
+| |              |     |           |939-001805          |NEW LONGER STRONGER USB CONNECT  |         |           |
+| |              |     |           |                    |                                 |         |           |
+004   | |    400       |  EA |1Y7737     |WEBCAM              |C-925E PROHD WEBCAM B2B ONLY     |  PERP   |    84.99  |   33996.00
+| |              |     |           |960-001075          |                                 |         |           |
+005   | |     12       |  EA |RG6331     |H-COMB              |LOGI H820E WIRELES DECT HS-DUAL  |  ACCS   |   195.49  |    2345.88
+| |              |     |           |981-000516          |ENTERPRISE QLTY DECT HEADSET ST  |         |           |
+| |              |     |           |                    |                                 |         |           |
+006   | |     12       |  EA |6KT548     |HEADST              |ZONE WIRED HEADST MST CERTIFIED  |  ACCS   |   109.65  |    1315.80
+| |              |     |           |981-000871          |MICROSOFT CERTIFIED WIRED HEADS  |         |           |
+| |              |     |           |                    |                                 |         |           |
+VENDORS PLEASE NOTE ANY CHANGES IN PRICE OR TERMS NEED APPROVAL BEFORE SHIPMENT                 |         |           |
+====================================================================================================================================
+|     440      |                                                                                              |   44798.56
+|              |                    MERCHANDISE SHIPPED ON THIS PURCHASE ORDER NOT IN                         |
+==============                     AGREEMENT WITH THE SPECIFICS AS OUTLINED ABOVE WILL BE                     ===========
+RETURNED UNLESS PRIOR APPROVAL HAS BEEN OBTAINED
+AUTHORIZED BY: KEITH GOLDSMITH

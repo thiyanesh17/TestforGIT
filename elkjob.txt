@@ -1,0 +1,231 @@
+Page 1 of 6
+
+Purchase Order
+
+Logitech Europe S.A. PO number 4503436630 Rev Date 11.12.2020
+Takenhofplein 3
+6538 SZ  NIJMEGEN Contact Group   Computing E-mail data.grossist@elkjop.no
+NETHERLANDS Telephone   +4767926500
+
+Contact Person Kristian Steffen Roseth
+
+E-Mail kristian.steffen.roseth@elkjop.no
+
+Our reference
+
+Our VAT Registration No. SE516408595201
+
+Your Vendor No. with us:
+
+70098
+
+Please bill to: Please deliver to:
+Elkjøp Nordic AS El-Giganten Logistik, DC Jönköping Mode of transport: Road
+c/o Dixon Retail SSC s.r.o Möbelvägen 51 Delivery Date:    Day   01.02.2021
+Trnita 491/5 SE-556 52 JÖNKÖPING
+602 00 Brno ZWEDEN
+
+Terms of Delivery DDP Jönköping
+
+Terms of Payment within 60 days Due net Currency EUR
+
+We require an order acknowledgement for the following items.
+Item Article Description Quantity Unit Net Price Gross value
+00010 49357 Logitech MX Keys Keyboard WL 88 Piece       60.50 5,324.00
+
+Vendor Article No. 920-009411
+Int. Article No.  (GTIN) 5099206086883
+
+Item Article Description Quantity Unit Net Price Gross value
+00020 76228 Logitech M350 Pebble Mouse WL WHT 10 Piece       13.99 139.90
+
+Vendor Article No. 910-005716
+Int. Article No.  (GTIN) 5099206085657
+Logitech M350 Pebble wireless mouse (offwhite)
+
+Item Article Description Quantity Unit Net Price Gross value
+00030 76230 Logitech MK470 Keyboard WL WHT 44 Piece       28.00 1,232.00
+
+Vendor Article No. 920-009201
+Int. Article No.  (GTIN) 5099206086579
+Logitech MK470 wireless keyboard  (offwhite)Page 2 of 6
+
+Logitech Europe S.A. PO Number 4503436630
+Takenhofplein 3
+6538 SZ  NIJMEGEN Date 11.12.2020
+NETHERLANDS
+
+Item Article Description Quantity Unit Net Price Gross value
+00040 76231 Logitech MK470 Keyboard WL GRP 88 Piece       28.00 2,464.00
+
+Vendor Article No. 920-009200
+Int. Article No.  (GTIN) 5099206086562
+Logitech MK470 wireless keyboard  (graphite)
+
+Item Article Description Quantity Unit Net Price Gross value
+00050 76232 Logitech M350 Pebble Mouse WL Rose 10 Piece       13.99 139.90
+
+Vendor Article No. 910-005717
+Int. Article No.  (GTIN) 5099206085664
+Logitech M350 Pebble wireless mouse (rose)
+
+Item Article Description Quantity Unit Net Price Gross value
+00060 76234 Logitech M350 Pebble Mouse WL GRP 20 Piece       13.99 279.80
+
+Vendor Article No. 910-005718
+Int. Article No.  (GTIN) 5099206085671
+Logitech M350 Pebble wireless mouse (graphite)
+
+Item Article Description Quantity Unit Net Price Gross value
+00070 LTCRAFT Logitech Craft Keyboard WL 24 Piece      110.45 2,650.80
+
+Vendor Article No. 920-008502
+Int. Article No.  (GTIN) 5099206072862
+
+Item Article Description Quantity Unit Net Price Gross value
+00080 LTK120 Logitech K120 Keyboard WR 110 Piece       9.52 1,047.20
+
+Vendor Article No. 920-002822
+Int. Article No.  (GTIN) 5099206023376
+
+Item Article Description Quantity Unit Net Price Gross value
+00090 LTK270 Logitech K270 Wireless Keyboard Nordic 40 Piece       19.60 784.00
+
+Vendor Article No. 920-003735
+Int. Article No.  (GTIN) 5099206032828Page 3 of 6
+
+Logitech Europe S.A. PO Number 4503436630
+Takenhofplein 3
+6538 SZ  NIJMEGEN Date 11.12.2020
+NETHERLANDS
+
+Item Article Description Quantity Unit Net Price Gross value
+00100 LTK280E Logitech K280e Keyboard WR 60 Piece       13.99 839.40
+
+Vendor Article No. 920-005216
+Int. Article No.  (GTIN) 5099206046849
+
+Item Article Description Quantity Unit Net Price Gross value
+00110 LTK375 Logitech K375S Keyboard+Stand WL 32 Piece       25.19 806.08
+
+Vendor Article No. 920-008176
+Int. Article No.  (GTIN) 5099206066465
+
+Item Article Description Quantity Unit Net Price Gross value
+00120 LTK380GREY Logitech K380 Keyboard WL 32 Piece       28.00 896.00
+
+Vendor Article No. 920-007578
+Int. Article No.  (GTIN) 5099206061460
+
+Item Article Description Quantity Unit Net Price Gross value
+00130 LTK400PLUSBL Logitech K400 Plus WL BK 400 Piece       28.00 11,200.00
+
+Vendor Article No. 920-007141
+Int. Article No.  (GTIN) 5099206059382
+
+Item Article Description Quantity Unit Net Price Gross value
+00140 LTK480BK Logitech K480 Keyboard BT 16 Piece       30.79 492.64
+
+Vendor Article No. 920-006362
+Int. Article No.  (GTIN) 5099206052789
+
+Item Article Description Quantity Unit Net Price Gross value
+00150 LTK740ILLU Logitech K740 Keyboard WR 48 Piece       55.99 2,687.52
+
+Vendor Article No. 920-005692
+Int. Article No.  (GTIN) 5099206045958
+
+Item Article Description Quantity Unit Net Price Gross value
+00160 LTK750 Logitech K750 Keyboard Solar WL 52 Piece       55.99 2,911.48Page 4 of 6
+
+Logitech Europe S.A. PO Number 4503436630
+Takenhofplein 3
+6538 SZ  NIJMEGEN Date 11.12.2020
+NETHERLANDS
+
+Vendor Article No. 920-002925
+Int. Article No.  (GTIN) 5099206025660
+
+Item Article Description Quantity Unit Net Price Gross value
+00170 LTM171 Logitech M171  Mouse WL BK 20 Piece       8.39 167.80
+
+Vendor Article No. 910-004424
+Int. Article No.  (GTIN) 5099206062856
+
+Item Article Description Quantity Unit Net Price Gross value
+00180 LTM185GREY Logitech M185 Mouse WL GR 1,440 Piece       9.52 13,708.80
+
+Vendor Article No. 910-002235
+Int. Article No.  (GTIN) 5099206027275
+
+Item Article Description Quantity Unit Net Price Gross value
+00190 LTM185RED Logitech M185 Mouse WL RED 480 Piece       9.52 4,569.60
+
+Vendor Article No. 910-002237
+Int. Article No.  (GTIN) 5099206028845
+
+Item Article Description Quantity Unit Net Price Gross value
+00200 LTM187 Logitech M187 Compact Mouse WL 24 Piece       11.20 268.80
+
+Vendor Article No. 910-002731
+Int. Article No.  (GTIN) 5099206032187
+
+Item Article Description Quantity Unit Net Price Gross value
+00210 LTM220BLUE Logitech M220 Silent Mouse WL BK 240 Piece       13.99 3,357.60
+
+Vendor Article No. 910-004879
+Int. Article No.  (GTIN) 5099206066205
+
+Item Article Description Quantity Unit Net Price Gross value
+00220 LTM330BLUE Logitech M330 Plus Mouse Silent BL 30 Piece       22.39 671.70
+
+Vendor Article No. 910-004910Page 5 of 6
+
+Logitech Europe S.A. PO Number 4503436630
+Takenhofplein 3
+6538 SZ  NIJMEGEN Date 11.12.2020
+NETHERLANDS
+
+Int. Article No.  (GTIN) 5099206066687
+
+Item Article Description Quantity Unit Net Price Gross value
+00230 LTM510 Logitech M510 Mouse WL 230 Piece       28.00 6,440.00
+
+Vendor Article No. 910-001826
+Int. Article No.  (GTIN) 5099206022126
+
+Item Article Description Quantity Unit Net Price Gross value
+00240 LTM570 Logitech M570 Trackball WL 120 Piece       50.39 6,046.80
+
+Vendor Article No. 910001882
+Int. Article No.  (GTIN) 5099206025172
+
+Item Article Description Quantity Unit Net Price Gross value
+00250 LTM590BLACK Logitech M590 Mouse Silent WL BK 220 Piece       28.00 6,160.00
+
+Vendor Article No. 910-005197
+Int. Article No.  (GTIN) 5099206072558
+
+Item Article Description Quantity Unit Net Price Gross value
+00260 LTM590RED Logitech M590 Mouse Silent WL RD 30 Piece       28.00 840.00
+
+Vendor Article No. 910-005199
+Int. Article No.  (GTIN) 5099206072572
+
+Item Article Description Quantity Unit Net Price Gross value
+00270 LTM705 Logitech M705 Marathon Mouse WL 50 Piece       28.00 1,400.00
+
+Vendor Article No. 910-001949
+Int. Article No.  (GTIN) 5099206023901
+
+Total net item value EUR 77,525.82Page 6 of 6
+
+Logitech Europe S.A. PO Number 4503436630
+Takenhofplein 3
+6538 SZ  NIJMEGEN Date 11.12.2020
+NETHERLANDS
+
+Please confirm the order, and book reservation for delivery via our portal: booking.elkjop.com.
+
+Upon delivery PACKING LIST with our PURCHASE ORDER NUMBER as well as BOOKING REFERENCE must ALWAYS be available
+upon arrival our warehouse.
