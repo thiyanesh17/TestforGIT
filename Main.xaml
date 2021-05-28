@@ -90,7 +90,7 @@
     </Assign>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="412,59" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Github&quot;]" />
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="412,63" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="This is GitHUb testing" />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="412,63" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[&quot;I am tetsing it &quot;+&quot;and&quot;]" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="412,63" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[&quot;I am tetsing it &quot;+&quot;and&quot; + &quot;and hole&quot;]" />
     <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="412,563" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[files]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="x:String">
